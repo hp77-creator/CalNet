@@ -1,6 +1,8 @@
 # CalNet
 
-Description:
+A Mini-Project for Academic Year 2021-22
+
+## Description:
  A Calore Prediction Network using Object Detection method.
  
 
