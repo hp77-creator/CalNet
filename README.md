@@ -19,7 +19,7 @@ A Mini-Project for Academic Year 2021-22
 - [ ] Pooja
 - [ ] Riya
 - [x] Savan
-- [ ] Tanisha
+- [x] Tanisha
 - [x] Tanya
 
 </details>
