@@ -15,8 +15,8 @@ A Mini-Project for Academic Year 2021-22
 - [ ] Aditya
 - [ ] Ayush
 - [ ] Nitin
-- [ ] Prachi
-- [ ] Pooja
+- [x] Pooja
+- [x] Prachi
 - [ ] Riya
 - [x] Savan
 - [x] Tanisha
