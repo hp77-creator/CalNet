@@ -12,7 +12,7 @@ A Mini-Project for Academic Year 2021-22
 
   Assignment-1 Track:
 
-- [ ] Aditya
+- [x] Aditya
 - [ ] Ayush
 - [x] Nitin
 - [x] Pooja
